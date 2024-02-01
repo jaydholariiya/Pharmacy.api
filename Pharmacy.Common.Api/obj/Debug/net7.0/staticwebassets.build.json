@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OQWIBQIeS80OuVfpqZkU6N+8lwQ7OFRAFMKeqsZRu9w=",
+  "Source": "Pharmacy.Common.Api",
+  "BasePath": "_content/Pharmacy.Common.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

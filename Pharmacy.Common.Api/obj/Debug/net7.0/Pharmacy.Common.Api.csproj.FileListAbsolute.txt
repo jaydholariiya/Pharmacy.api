@@ -1,0 +1,355 @@
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\appsettings.json
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Pharmacy.Common.Api.exe
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Pharmacy.Common.Api.deps.json
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Pharmacy.Common.Api.runtimeconfig.json
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Pharmacy.Common.Api.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Pharmacy.Common.Api.pdb
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\AWSSDK.S3.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Hosting.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Npgsql.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Twilio.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Pharmacy.Common.BusinessLayer.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Pharmacy.Common.Database.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Pharmacy.Common.Util.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Pharmacy.Common.BusinessLayer.pdb
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Pharmacy.Common.Database.pdb
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Pharmacy.Common.Util.pdb
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.AssemblyInfo.cs
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\staticwebassets\msbuild.Pharmacy.Common.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Pharmacy.Common.Api.props
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Pharmacy.Common.Api.props
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Pharmacy.Common.Api.props
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\scopedcss\bundle\Pharmacy.Common.Api.styles.css
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.csproj.CopyComplete
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\refint\Pharmacy.Common.Api.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.pdb
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.genruntimeconfig.cache
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\ref\Pharmacy.Common.Api.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\DinkToPdf.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.Enrichers.Environment.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.Sinks.Async.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.Sinks.RollingFile.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\MailKit.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\MimeKit.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\NETCore.MailKit.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\appsettings.Development.json
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\appsettings.json
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Pharmacy.Common.Api.exe
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Pharmacy.Common.Api.deps.json
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Pharmacy.Common.Api.runtimeconfig.json
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Pharmacy.Common.Api.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Pharmacy.Common.Api.pdb
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\AutoMapper.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\AWSSDK.Core.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\AWSSDK.S3.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\DinkToPdf.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Humanizer.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\MailKit.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Hosting.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Logging.Console.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Logging.Debug.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\MimeKit.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\NETCore.MailKit.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Npgsql.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.AspNetCore.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.Enrichers.Environment.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.Sinks.Async.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.Sinks.File.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.Sinks.RollingFile.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\System.CodeDom.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\System.Text.Json.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Twilio.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Pharmacy.Common.BusinessLayer.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Pharmacy.Common.Database.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Pharmacy.Common.Util.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Pharmacy.Common.BusinessLayer.pdb
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Pharmacy.Common.Database.pdb
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\bin\Debug\net7.0\Pharmacy.Common.Util.pdb
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.csproj.AssemblyReference.cache
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.AssemblyInfoInputs.cache
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.AssemblyInfo.cs
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.csproj.CoreCompileInputs.cache
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\staticwebassets.build.json
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\staticwebassets.development.json
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\staticwebassets\msbuild.Pharmacy.Common.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Pharmacy.Common.Api.props
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Pharmacy.Common.Api.props
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Pharmacy.Common.Api.props
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\scopedcss\bundle\Pharmacy.Common.Api.styles.css
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.csproj.CopyComplete
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\refint\Pharmacy.Common.Api.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.pdb
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.genruntimeconfig.cache
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\ref\Pharmacy.Common.Api.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.sourcelink.json
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\appsettings.Development.json
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\appsettings.json
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Pharmacy.Common.Api.exe
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Pharmacy.Common.Api.deps.json
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Pharmacy.Common.Api.runtimeconfig.json
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Pharmacy.Common.Api.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Pharmacy.Common.Api.pdb
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\AutoMapper.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\AWSSDK.Core.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\AWSSDK.S3.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\DinkToPdf.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Humanizer.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\MailKit.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Hosting.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Logging.Console.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Logging.Debug.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\MimeKit.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\NETCore.MailKit.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Npgsql.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.AspNetCore.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.Enrichers.Environment.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.Sinks.Async.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.Sinks.File.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Serilog.Sinks.RollingFile.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\System.CodeDom.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\System.Text.Json.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Twilio.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Pharmacy.Common.BusinessLayer.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Pharmacy.Common.Database.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Pharmacy.Common.Util.dll
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Pharmacy.Common.BusinessLayer.pdb
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Pharmacy.Common.Database.pdb
+D:\new ref\Pharmacy.Common.Api\bin\Debug\net7.0\Pharmacy.Common.Util.pdb
+D:\new ref\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.csproj.AssemblyReference.cache
+D:\new ref\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\new ref\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.AssemblyInfoInputs.cache
+D:\new ref\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.AssemblyInfo.cs
+D:\new ref\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.csproj.CoreCompileInputs.cache
+D:\new ref\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\new ref\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\new ref\Pharmacy.Common.Api\obj\Debug\net7.0\staticwebassets.build.json
+D:\new ref\Pharmacy.Common.Api\obj\Debug\net7.0\staticwebassets.development.json
+D:\new ref\Pharmacy.Common.Api\obj\Debug\net7.0\staticwebassets\msbuild.Pharmacy.Common.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\new ref\Pharmacy.Common.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Pharmacy.Common.Api.props
+D:\new ref\Pharmacy.Common.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Pharmacy.Common.Api.props
+D:\new ref\Pharmacy.Common.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Pharmacy.Common.Api.props
+D:\new ref\Pharmacy.Common.Api\obj\Debug\net7.0\staticwebassets.pack.json
+D:\new ref\Pharmacy.Common.Api\obj\Debug\net7.0\scopedcss\bundle\Pharmacy.Common.Api.styles.css
+D:\new ref\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.csproj.CopyComplete
+D:\new ref\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.dll
+D:\new ref\Pharmacy.Common.Api\obj\Debug\net7.0\refint\Pharmacy.Common.Api.dll
+D:\new ref\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.pdb
+D:\new ref\Pharmacy.Common.Api\obj\Debug\net7.0\Pharmacy.Common.Api.genruntimeconfig.cache
+D:\new ref\Pharmacy.Common.Api\obj\Debug\net7.0\ref\Pharmacy.Common.Api.dll

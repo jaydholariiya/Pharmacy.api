@@ -1,0 +1,43 @@
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Database\bin\Debug\net7.0\Pharmacy.Common.Database.deps.json
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Database\bin\Debug\net7.0\Pharmacy.Common.Database.runtimeconfig.json
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Database\bin\Debug\net7.0\Pharmacy.Common.Database.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Database\bin\Debug\net7.0\Pharmacy.Common.Database.pdb
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Database\obj\Debug\net7.0\Pharmacy.Common.Database.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Database\obj\Debug\net7.0\Pharmacy.Common.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Database\obj\Debug\net7.0\Pharmacy.Common.Database.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Database\obj\Debug\net7.0\Pharmacy.Common.Database.AssemblyInfo.cs
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Database\obj\Debug\net7.0\Pharmacy.Common.Database.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Database\obj\Debug\net7.0\Pharmacy.Common.Database.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Database\obj\Debug\net7.0\refint\Pharmacy.Common.Database.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Database\obj\Debug\net7.0\Pharmacy.Common.Database.pdb
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Database\obj\Debug\net7.0\Pharmacy.Common.Database.genruntimeconfig.cache
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.Database\obj\Debug\net7.0\ref\Pharmacy.Common.Database.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Database\bin\Debug\net7.0\Pharmacy.Common.Database.deps.json
+D:\Pharmacy.Common.Api\Pharmacy.Common.Database\bin\Debug\net7.0\Pharmacy.Common.Database.runtimeconfig.json
+D:\Pharmacy.Common.Api\Pharmacy.Common.Database\bin\Debug\net7.0\Pharmacy.Common.Database.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Database\bin\Debug\net7.0\Pharmacy.Common.Database.pdb
+D:\Pharmacy.Common.Api\Pharmacy.Common.Database\obj\Debug\net7.0\Pharmacy.Common.Database.csproj.AssemblyReference.cache
+D:\Pharmacy.Common.Api\Pharmacy.Common.Database\obj\Debug\net7.0\Pharmacy.Common.Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pharmacy.Common.Api\Pharmacy.Common.Database\obj\Debug\net7.0\Pharmacy.Common.Database.AssemblyInfoInputs.cache
+D:\Pharmacy.Common.Api\Pharmacy.Common.Database\obj\Debug\net7.0\Pharmacy.Common.Database.AssemblyInfo.cs
+D:\Pharmacy.Common.Api\Pharmacy.Common.Database\obj\Debug\net7.0\Pharmacy.Common.Database.csproj.CoreCompileInputs.cache
+D:\Pharmacy.Common.Api\Pharmacy.Common.Database\obj\Debug\net7.0\Pharmacy.Common.Database.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Database\obj\Debug\net7.0\refint\Pharmacy.Common.Database.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Database\obj\Debug\net7.0\Pharmacy.Common.Database.pdb
+D:\Pharmacy.Common.Api\Pharmacy.Common.Database\obj\Debug\net7.0\Pharmacy.Common.Database.genruntimeconfig.cache
+D:\Pharmacy.Common.Api\Pharmacy.Common.Database\obj\Debug\net7.0\ref\Pharmacy.Common.Database.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.Database\obj\Debug\net7.0\Pharmacy.Common.Database.sourcelink.json
+D:\new ref\Pharmacy.Common.Database\bin\Debug\net7.0\Pharmacy.Common.Database.deps.json
+D:\new ref\Pharmacy.Common.Database\bin\Debug\net7.0\Pharmacy.Common.Database.runtimeconfig.json
+D:\new ref\Pharmacy.Common.Database\bin\Debug\net7.0\Pharmacy.Common.Database.dll
+D:\new ref\Pharmacy.Common.Database\bin\Debug\net7.0\Pharmacy.Common.Database.pdb
+D:\new ref\Pharmacy.Common.Database\obj\Debug\net7.0\Pharmacy.Common.Database.csproj.AssemblyReference.cache
+D:\new ref\Pharmacy.Common.Database\obj\Debug\net7.0\Pharmacy.Common.Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\new ref\Pharmacy.Common.Database\obj\Debug\net7.0\Pharmacy.Common.Database.AssemblyInfoInputs.cache
+D:\new ref\Pharmacy.Common.Database\obj\Debug\net7.0\Pharmacy.Common.Database.AssemblyInfo.cs
+D:\new ref\Pharmacy.Common.Database\obj\Debug\net7.0\Pharmacy.Common.Database.csproj.CoreCompileInputs.cache
+D:\new ref\Pharmacy.Common.Database\obj\Debug\net7.0\Pharmacy.Common.Database.dll
+D:\new ref\Pharmacy.Common.Database\obj\Debug\net7.0\refint\Pharmacy.Common.Database.dll
+D:\new ref\Pharmacy.Common.Database\obj\Debug\net7.0\Pharmacy.Common.Database.pdb
+D:\new ref\Pharmacy.Common.Database\obj\Debug\net7.0\Pharmacy.Common.Database.genruntimeconfig.cache
+D:\new ref\Pharmacy.Common.Database\obj\Debug\net7.0\ref\Pharmacy.Common.Database.dll

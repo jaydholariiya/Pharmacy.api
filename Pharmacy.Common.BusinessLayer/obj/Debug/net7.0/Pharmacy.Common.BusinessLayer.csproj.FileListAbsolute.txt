@@ -1,0 +1,52 @@
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\bin\Debug\net7.0\Pharmacy.Common.BusinessLayer.deps.json
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\bin\Debug\net7.0\Pharmacy.Common.BusinessLayer.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\bin\Debug\net7.0\Pharmacy.Common.BusinessLayer.pdb
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\bin\Debug\net7.0\Pharmacy.Common.Database.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\bin\Debug\net7.0\Pharmacy.Common.Util.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\bin\Debug\net7.0\Pharmacy.Common.Database.pdb
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\bin\Debug\net7.0\Pharmacy.Common.Util.pdb
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\obj\Debug\net7.0\Pharmacy.Common.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\obj\Debug\net7.0\Pharmacy.Common.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\obj\Debug\net7.0\Pharmacy.Common.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\obj\Debug\net7.0\Pharmacy.Common.BusinessLayer.AssemblyInfo.cs
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\obj\Debug\net7.0\Pharmacy.Common.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\obj\Debug\net7.0\Pharmacy.Common.BusinessLayer.csproj.CopyComplete
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\obj\Debug\net7.0\Pharmacy.Common.BusinessLayer.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\obj\Debug\net7.0\refint\Pharmacy.Common.BusinessLayer.dll
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\obj\Debug\net7.0\Pharmacy.Common.BusinessLayer.pdb
+C:\Users\pc\source\repos\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\obj\Debug\net7.0\ref\Pharmacy.Common.BusinessLayer.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\bin\Debug\net7.0\Pharmacy.Common.BusinessLayer.deps.json
+D:\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\bin\Debug\net7.0\Pharmacy.Common.BusinessLayer.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\bin\Debug\net7.0\Pharmacy.Common.BusinessLayer.pdb
+D:\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\bin\Debug\net7.0\Pharmacy.Common.Database.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\bin\Debug\net7.0\Pharmacy.Common.Util.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\bin\Debug\net7.0\Pharmacy.Common.Database.pdb
+D:\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\bin\Debug\net7.0\Pharmacy.Common.Util.pdb
+D:\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\obj\Debug\net7.0\Pharmacy.Common.BusinessLayer.csproj.AssemblyReference.cache
+D:\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\obj\Debug\net7.0\Pharmacy.Common.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\obj\Debug\net7.0\Pharmacy.Common.BusinessLayer.AssemblyInfoInputs.cache
+D:\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\obj\Debug\net7.0\Pharmacy.Common.BusinessLayer.AssemblyInfo.cs
+D:\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\obj\Debug\net7.0\Pharmacy.Common.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\obj\Debug\net7.0\Pharmacy.Common.BusinessLayer.csproj.CopyComplete
+D:\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\obj\Debug\net7.0\Pharmacy.Common.BusinessLayer.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\obj\Debug\net7.0\refint\Pharmacy.Common.BusinessLayer.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\obj\Debug\net7.0\Pharmacy.Common.BusinessLayer.pdb
+D:\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\obj\Debug\net7.0\ref\Pharmacy.Common.BusinessLayer.dll
+D:\Pharmacy.Common.Api\Pharmacy.Common.BusinessLayer\obj\Debug\net7.0\Pharmacy.Common.BusinessLayer.sourcelink.json
+D:\new ref\Pharmacy.Common.BusinessLayer\bin\Debug\net7.0\Pharmacy.Common.BusinessLayer.deps.json
+D:\new ref\Pharmacy.Common.BusinessLayer\bin\Debug\net7.0\Pharmacy.Common.BusinessLayer.dll
+D:\new ref\Pharmacy.Common.BusinessLayer\bin\Debug\net7.0\Pharmacy.Common.BusinessLayer.pdb
+D:\new ref\Pharmacy.Common.BusinessLayer\bin\Debug\net7.0\Pharmacy.Common.Database.dll
+D:\new ref\Pharmacy.Common.BusinessLayer\bin\Debug\net7.0\Pharmacy.Common.Util.dll
+D:\new ref\Pharmacy.Common.BusinessLayer\bin\Debug\net7.0\Pharmacy.Common.Database.pdb
+D:\new ref\Pharmacy.Common.BusinessLayer\bin\Debug\net7.0\Pharmacy.Common.Util.pdb
+D:\new ref\Pharmacy.Common.BusinessLayer\obj\Debug\net7.0\Pharmacy.Common.BusinessLayer.csproj.AssemblyReference.cache
+D:\new ref\Pharmacy.Common.BusinessLayer\obj\Debug\net7.0\Pharmacy.Common.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\new ref\Pharmacy.Common.BusinessLayer\obj\Debug\net7.0\Pharmacy.Common.BusinessLayer.AssemblyInfoInputs.cache
+D:\new ref\Pharmacy.Common.BusinessLayer\obj\Debug\net7.0\Pharmacy.Common.BusinessLayer.AssemblyInfo.cs
+D:\new ref\Pharmacy.Common.BusinessLayer\obj\Debug\net7.0\Pharmacy.Common.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\new ref\Pharmacy.Common.BusinessLayer\obj\Debug\net7.0\Pharmacy.Common.BusinessLayer.csproj.CopyComplete
+D:\new ref\Pharmacy.Common.BusinessLayer\obj\Debug\net7.0\Pharmacy.Common.BusinessLayer.dll
+D:\new ref\Pharmacy.Common.BusinessLayer\obj\Debug\net7.0\refint\Pharmacy.Common.BusinessLayer.dll
+D:\new ref\Pharmacy.Common.BusinessLayer\obj\Debug\net7.0\Pharmacy.Common.BusinessLayer.pdb
+D:\new ref\Pharmacy.Common.BusinessLayer\obj\Debug\net7.0\ref\Pharmacy.Common.BusinessLayer.dll
